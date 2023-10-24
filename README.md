@@ -4,8 +4,9 @@ See live demo <a href="https://exkave.github.io/hpbirthday/" target="_blanck">He
 
 ## change the name of reciever
 
-add ``` ?name=birthday boy name``` to the url to change reciver name.
+add ``` shagun``` to the url to change reciver name.
 
 ## change sender name
 
-Add ``` &from=sender name``` after birthday boy name to change sender name.
+Add ``` shagun`` after birthday boy name to change sender name.
+shagun 
